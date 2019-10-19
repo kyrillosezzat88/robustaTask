@@ -15,7 +15,9 @@ h2 {
 h2:first-of-type {
   margin-top: 0.5em;
 }
-
+table{
+  box-shadow: 0 0 5px 1px #999;
+}
 table,
 tr,
 td {
@@ -38,4 +40,3 @@ td {
 input[type="number"] {
   width: 6em;
 }
-
